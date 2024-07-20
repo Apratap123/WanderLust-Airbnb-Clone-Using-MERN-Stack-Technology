@@ -3,7 +3,7 @@
 
 
 <script>
-  const mapToken = "<%= process.env.map_Token %>"
+  const mapToken = "<%= process.env.MAP_TOKEN%>"
   mapboxgl.accessToken = mapToken;;
   const listing = <%- JSON.stringify(listing) %>;
 </script>
