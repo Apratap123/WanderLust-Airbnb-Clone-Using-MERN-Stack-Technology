@@ -21,5 +21,4 @@ A full-stack Airbnb clone web application that allows users to explore listings,
 - **Cloud Storage**: Cloudinary (for image upload)
 - **Other Tools**: Multer, Method-Override, Connect-Flash
 
-## 📁 Project Structure
 
